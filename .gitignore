@@ -1,0 +1,8 @@
+.idea
+__pycache__
+log/*
+pid.txt
+!log/.gitkeep
+json/*
+!json/.gitkeep
+img/code.png
